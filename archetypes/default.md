@@ -4,3 +4,6 @@ date: {{ .Date }}
 draft: true
 ---
 
+## Goomba Documentation
+
+Welcome to Goomba documentation
