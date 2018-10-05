@@ -1,6 +1,6 @@
 serve: deps
 serve:	## Serve website
-	hugo server -D --disableFastRender
+	hugo server -v -D --disableFastRender
 
 deps:
 	git submodule foreach git pull origin master
