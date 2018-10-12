@@ -1,5 +1,5 @@
-baseURL = "http://goomba.io"
+baseURL = "http://goombaproject.io"
 languageCode = "en-us"
-title = "Goomba Documentation Site"
+title = "Goomba Project Documentation Site"
 theme = "default"
 isMultilingual = false

@@ -21,7 +21,7 @@ TODO
 
 TODO
 
-## How Nomad Compares to Other Tools
+## How Goomba Compares to Other Tools
 
 TODO
 
